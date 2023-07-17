@@ -38,4 +38,13 @@ Dashboards
 
 <img width="578" alt="dash 1" src="https://github.com/Nic-Katungi/HR-DATA-Analysis-/assets/45061427/4f673a41-b67f-49b4-9765-3dbaec61a94a">
 
+Key Findings
+1. 60% of the employees were male
+2. 8% were to be layed off
+3. Only less than 5% were due for job promotion
+4. The highest number of employees were still juniors at level one and more of these are females
+5. 25% which is the biggest percentage of the employees had spent less than 2 years at the job
 
+Recommendations 
+1. Management should ensure to carry out performance appraisal periodically for all employees so as to provide necessary training and development programs to every underperforming employee to give them room for improvement so they can be eligible for promotions
+2. There is need to focus on departments with a higher number of a particular gender to ascertain the cause for gender gap especially in senior roles  
