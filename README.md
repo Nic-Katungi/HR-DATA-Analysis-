@@ -41,7 +41,7 @@ Dashboards
 Key Findings
 1. 60% of the employees were male
 2. 8% were to be layed off
-3. Only less than 5% were due for job promotion
+3. Only less than 5% were due for job promotion and 30% of those are in managerial positions 
 4. The highest number of employees were still juniors at level one and more of these are females
 5. 25% which is the biggest percentage of the employees had spent less than 2 years at the job
 
